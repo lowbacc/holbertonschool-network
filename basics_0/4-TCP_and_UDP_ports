@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Bash script that displays listening ports with the PID and name of the program
 
-sudo netstat -tulnp
+sudo netstat -lp
